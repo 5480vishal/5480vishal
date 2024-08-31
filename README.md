@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I’m Vishal Singh 👋</h1>
-<h3 align="center">I’m a BCA student with a passion for full-stack development, particularly the MERN stack. I’m dedicated to building innovative and user-friendly web applications that solve real-world problems.
+<h3 align="center">I’m a BCA student with a passion for full-stack development, particularly the MERN stack.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
