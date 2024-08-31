@@ -2,7 +2,7 @@
 <h3 align="center">I’m a BCA student with a passion for full-stack development, particularly the MERN stack.
 </h3>
 
-<img align="right" alt="Coding" width="400" src=""https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--x8dC1ccl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5480vishal&label=Profile%20views&color=0e75b6&style=flat" alt="5480vishal" /> </p>
 
